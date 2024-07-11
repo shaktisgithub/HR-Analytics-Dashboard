@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard
 
-(![Screenshot 2024-07-11 225152](https://github.com/shaktisgithub/HR-Analytics-Dashboard/assets/140899319/e390f393-2270-402c-b791-a971d1c79444)
-)
+![Screenshot 2024-07-11 225152](https://github.com/shaktisgithub/HR-Analytics-Dashboard/assets/140899319/e390f393-2270-402c-b791-a971d1c79444)
+
 
 ## 📌 Project Overview
 
